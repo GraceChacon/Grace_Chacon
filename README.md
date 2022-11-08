@@ -1,2 +1,5 @@
-# Grace_Chacon
-My personal repository
+### Grace_Chacon
+
+¡Hi, this is my first personal repository!
+
+
